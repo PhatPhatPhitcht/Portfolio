@@ -1,0 +1,12 @@
+site_name: Portfolio
+site_author: MJakub Najder
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+
+theme:
+  name: material
+
+nav:
+- Strona Domowa: index.md
+- Projekty:
+  - "Iris": iris/index.md
