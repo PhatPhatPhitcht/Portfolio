@@ -1,5 +1,5 @@
 
-# Fascynująca Analiza Danych EDA Irysów: Eksploracja Domenowa
+# Analiza Danych EDA Irysów: Eksploracja Domenowa
 
 Zapraszam do zapoznania się z wyjątkowym projektem, który przenosi nas w świat analizy danych irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które rzucają nowe światło na te piękne kwiaty.
 

@@ -1,7 +1,10 @@
 site_name: Portfolio
-site_author: MJakub Najder
+site_author: Jakub Najder
 site_description: >-
     Portfolio moich wspaniałych projektów z Data Science i AI!
+
+repo_name: PhatPhatPhitcht/Portfolio
+repo_url: https://github.com/PhatPhatPhitcht/Portfolio
 
 theme:
   name: material
