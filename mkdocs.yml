@@ -13,3 +13,5 @@ nav:
 - Strona Domowa: index.md
 - Projekty:
   - "Iris": iris/index.md
+  - "Aplikacja do generowania napisów": subtitles_gen/index.md
+  - "Oblicznie czasu maratonu wrocławskiego": marathon_app/index.md
